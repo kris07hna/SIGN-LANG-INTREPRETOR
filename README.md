@@ -1,4 +1,4 @@
-# 🤟 AI Sign Language Interpreter
+# 🤟  Sign Language Interpreter
 
 A real-time sign language recognition system built with Python, MediaPipe, TensorFlow, and Streamlit. This application can detect and interpret sign language gestures in real-time using computer vision and machine learning.
 
@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/ai-sign-language-interpreter/issues) page
+1. Check the [Issues](https://github.com/kris07hna/SIGN-LANG-INTREPRETOR/issues) page
 2. Create a new issue with detailed description
 3. Include system information and error messages
 
